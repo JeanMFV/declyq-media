@@ -1,6 +1,9 @@
 {
-  "OUTILS": {
-    "dm": "Salut ! Voici les 3 outils de la vidéo :\n• SkillSpector (NVIDIA) : github.com/NVIDIA/SkillSpector\n• Ponytail : github.com/DietrichGebert/ponytail\n• FreeLLMAPI (usage perso uniquement) : github.com/tashfeenahmed/freellmapi\nUne astuce IA concrète chaque jour sur @declyq.",
-    "reply": "Envoyé en DM ✉️"
-  }
+  "_note": "Mot-clé unique DÉCLIC pour toutes les vidéos. Variantes acceptées ci-dessous. Le message envoyé dépend de la vidéo commentée (clé = identifiant de la vidéo dans queue.json).",
+  "mots": ["DÉCLIC", "DECLIC", "DÉCLYQ", "DECLYQ"],
+  "reponse_publique": "Envoyé en DM ✉️",
+  "par_video": {
+    "2026-11-16_outils-github": "Salut ! Voici les 3 outils de la vidéo :\n• SkillSpector (NVIDIA) : github.com/NVIDIA/SkillSpector\n• Ponytail : github.com/DietrichGebert/ponytail\n• FreeLLMAPI (usage perso uniquement) : github.com/tashfeenahmed/freellmapi\nUne astuce IA concrète chaque jour sur @declyq."
+  },
+  "par_defaut": "Salut ! Merci pour ton commentaire. Tout est sur declyq.fr, et une astuce IA concrète arrive chaque jour sur @declyq."
 }
